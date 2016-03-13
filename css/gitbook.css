@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+     cursor: crosshair;
+ }
+
+.clear{
+    clear:both
+}
+
+#git1{
+    height: 38px;
+    width:1000px;
+    padding:10px 15px;
+    margin:auto;
+}
+
+#git2{
+    height: 488px;
+    width:1000px;
+    padding:40px 15px 60px 15px;
+    margin:auto;
+}
+
+#git3{
+    height: 22px;
+    width:1000px;
+    padding:20px 15px 20px 15px;
+    margin:auto;
+}
+
+#git4 {
+    height: 292px;
+    width: 1000px;
+    padding: 60px 15px 0px 15px;
+    margin: auto;
+}
+
+#git5{
+    height: 163px;
+    width:1000px;
+    padding:40px 15px 50px 15px;
+    margin:auto;
+}
+
+#git6{
+    height: 170px;
+    width:1000px;
+    padding:0px 15px;
+    margin:auto;
+}
+
+#git7{
+    height: 249px;
+    width:1000px;
+    padding:60px 15px 0px 15px;
+    margin:auto;
+}
+
+#git8{
+    height: 98px;
+    width:1000px;
+    padding:30px 15px 30px 15px;
+    margin:auto;
+}
+
+#git9{
+    height: 59px;
+    width:1000px;
+    padding:30px 15px 30px 15px;
+    margin:auto;
+}
+
+#git21{
+    height: 56px;
+    width:100px;
+    padding:0px 0px 0px 25px;
+    margin:auto;
+}
+
+#git22{
+    height: 33px;
+    width:1000px;
+    padding:0px 0px 0px 20px;
+    margin:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+textarea {
+    width: 300px;
+    min-width: 300px;
+    max-width: 300px;
+    height: 100px;
+    min-height: 100px;
+    max-height: 100px;
+}
+
+.clear {
+    clear: both;
+}
+
+#container {
+    width: 1000px;
+    background: #ddd;
+    margin: auto;
+}
+
+#header {
+    background: #fcc;
+    height: 500px;
+}
+
+#content {
+
+}
+
+#left,
+#middle,
+#right {
+    float: left;
+    height: 1000px;
+}
+
+#left {
+    background: #cfc;
+    width: 260px;
+    padding: 20px;
+    height: 960px;
+}
+
+#middle {
+    background: #999;
+    width: 400px;
+}
+
+#right {
+    background: #ccf;
+    width: 300px;
+}
+
+#footer {
+    background: #333;
+    height: 500px;
+}
